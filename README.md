@@ -4,14 +4,15 @@ A noughts and crosses game built in Swift for a university project
 
 The swift file for the main game is the ‘cwTEST.xcodeproject’.
 
-Jakes work/test/cwTEST/cwTEST.xcodeproject
+The main game files are located in:
+SwiftGame/jakes work/test/cwTEST/cwTEST/
 
-Files for the game are:
+Main game files are:
 
-ViewController.swift
-Scene2ViewControllerHomePageViewController.swift
-TableViewSubClass.swift
-LeaderBoardController.swift
+  - ViewController.swift
+  - Scene2ViewControllerHomePageViewController.swift
+  - TableViewSubClass.swift
+  - LeaderBoardController.swift
 
 All necessary screen shots are in the ‘ScreenShots’ folder
 All PHP files are in the ‘PHPFiles’ folder
